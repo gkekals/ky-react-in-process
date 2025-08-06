@@ -12,7 +12,7 @@ function App() {
     <Contact/>
     <Aboutme/>
     <Skill/>
-
+  
     </div>
   )
 }

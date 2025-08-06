@@ -1,10 +1,10 @@
 import React from 'react'
-import './style/Hero.css'
-const Hero = () => {
+import './style/Aboutme.css'
+const Aboutme = () => {
     return (
-        <section className='Hero'>
+        <section>
             <div className="t-wrap">
-                <h2>Hero title</h2>
+                <h2>aboutme title</h2>
                 <p>
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis, voluptas!
                 </p>
@@ -13,4 +13,4 @@ const Hero = () => {
     )
 }
 
-export default Hero
+export default Aboutme
