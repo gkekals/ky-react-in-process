@@ -1,13 +1,13 @@
 
 import './App.css'
-import TodoList from './components/TodoList'
+import MyComponent from './components/MyComponent'
 
 function App() {
   
 
   return (
     <div>
-      <TodoList/>
+      <MyComponent/>
     </div>
   )
 }
